@@ -3,8 +3,9 @@
 
 <br/>
 
-> **_Learning:_**     
-<img src= "https://cdn-icons.flaticon.com/png/128/3344/premium/3344325.png?token=exp=1642801827~hmac=d1727cc4dfd75b95a784d2202ad808d3" width= "7%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/778/778531.png" width= "9%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/4668/premium/4668155.png?token=exp=1642802017~hmac=67f1dde33c8d06c7fc60fd06de83d3d0" width= "8%">&nbsp;  
+> **_Learning:_**  
+>    
+<img src= "https://cdn-icons-png.flaticon.com/128/136/136530.png" width= "7%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/136/136528.png" width= "7%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/136/136527.png" width= "7%">&nbsp;  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THom1331&layout=compact)](https://github.com/Thomas-Julien-Dev/github-readme-stats)
@@ -14,21 +15,22 @@
 <br/>
 <br/>
 
-> ## *TOOLS*
+> ## *TOOLS & Languages*
 
-<img src= "https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width= "5%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/5210/premium/5210500.png?token=exp=1642809526~hmac=ba99de8a2018645b3fa2399d12ff8099" width= "5%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/5210/premium/5210800.png?token=exp=1642809526~hmac=170a44bbe2803ed21b9cc6c7e5a59879" width= "5%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/270/270798.png" width= "5%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/172/premium/172511.png?token=exp=1642810157~hmac=6b4cd4c9868a9fd6efa612fc5fa3d5ce" width= "5%">
+<img src= "https://cdn-icons-png.flaticon.com/128/270/270798.png" width= "5%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width= "5%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/5210/premium/5210500.png?token=exp=1642809526~hmac=ba99de8a2018645b3fa2399d12ff8099" width= "5%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/5210/premium/5210800.png?token=exp=1642809526~hmac=170a44bbe2803ed21b9cc6c7e5a59879" width= "5%">&nbsp;    <img src= "https://cdn-icons.flaticon.com/png/128/172/premium/172511.png?token=exp=1642810157~hmac=6b4cd4c9868a9fd6efa612fc5fa3d5ce" width= "5%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/408/408744.png" width= "5%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width= "5%">&nbsp;/&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/3344/premium/3344325.png?token=exp=1642867564~hmac=9dfc1b8f4332fa5ee56476d22f6c73e2" width= "6%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/2621/2621200.png" width= "6%">&nbsp;   <img src= "https://cdn-icons.flaticon.com/png/128/3343/premium/3343972.png?token=exp=1642867690~hmac=bf1cecf220e35d733390479d94c6c86e" width= "6%">
+
 
 <br/>
 <br/>
 
 > ## *SKILLS*
 
-  - [x]  Bonne maîtrise des logiciels de créations (Adobe After effect,
-        Photoshop, Illustrator, Première Pro , C4D).
-  - [x] Bonne capacité à aborder des concepts complexes.
-  - [x] Faculté d'adaptation au sein de différents environnements professionnels.
-  - [x] Persévérance dans la résolution de problèmes.
-  - [x] Autodidactie.
+  - [x] Good ability to deal with complex concepts.
+  - [x] Ability to adapt to different professional environments.
+  - [x] Perseverance in problem solving.
+  - [x] Autodidact.
+
+<br/>
 
 - ⚡ Fun fact: I was a carpenter
 
@@ -54,4 +56,4 @@
 </p>
 </details>
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Thomas-Julien-Dev&show_icons=true&theme=yeblu)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Thomas-Julien-dev&show_icons=true&theme=yeblu)
