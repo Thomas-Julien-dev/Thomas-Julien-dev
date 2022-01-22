@@ -33,7 +33,7 @@
 > <p align="center">  
 >   <a href="https://www.youtube.com/channel/UCbzJDXNU0avVu35avqNg8XA">
 >    <img alt="Ma chaine Youtube" width="50px" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
->   
+>     
 >   <a href="https://www.linkedin.com/in/thomas-j-86111b221/">
 >  <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
    
