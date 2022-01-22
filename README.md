@@ -41,19 +41,23 @@
 > <details><summary> CLICK ME </summary>
 >I have developed projects mainly in the field of graphic design and videos.
 >I learned by passion with my time and my savings 💳, I reinforce my knowledge as often as possible in order to go further and advance towards my goals.
-> <p align="center">  
+> 
+>  <br/>
+>  
 >   <a href="https://www.youtube.com/channel/UCbzJDXNU0avVu35avqNg8XA">
 >    <img alt="Ma chaine Youtube" width="50px" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 >     
 >   <a href="https://www.linkedin.com/in/thomas-j-86111b221/">
 >  <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
    
-  </p> 
+  
 
 <p align="center">
     <img align="center" width="40%" alt="GIF" src="https://media.giphy.com/media/3KVcFEmdDl9NYaFTtx/giphy.gif"/>
   </p>
 </p>
 </details>
-
+  
+<br/>
+  
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Thomas-Julien-dev&show_icons=true&theme=yeblu)
