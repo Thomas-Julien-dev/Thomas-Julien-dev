@@ -60,4 +60,4 @@
   
 <br/>
   
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Thomas-Julien-dev&show_icons=true&theme=yeblu)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Thomas-Julien-dev&show_icons=true&theme=github_dark)
