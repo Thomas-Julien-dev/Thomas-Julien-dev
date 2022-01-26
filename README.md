@@ -8,7 +8,7 @@
 <img src= "https://cdn-icons-png.flaticon.com/128/136/136530.png" width= "7%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/136/136528.png" width= "7%">&nbsp;   <img src= "https://cdn-icons-png.flaticon.com/128/136/136527.png" width= "7%">&nbsp;  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THom1331&layout=compact)](https://github.com/Thomas-Julien-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Julien-dev&layout=compact)](https://github.com/Thomas-Julien-Dev/github-readme-stats)
   
 - 🌱 I’m currently learning Javascript 
 
